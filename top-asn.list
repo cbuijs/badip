@@ -1,11 +1,22 @@
 HITS	ASN	HOLDER
-5	AS14061	DIGITALOCEAN-ASN, US
-1	AS60068	CDN77 Datacamp Limited, GB
-1	AS55933	CLOUDIE-AS-AP Cloudie Limited, HK
-1	AS4134	CHINANET-BACKBONE No.31,Jin-rong Street, CN
-1	AS401120	CHEAPY-HOST, US
-1	AS398722	CENSYS-ARIN-03, US
-1	AS212283	ROZA-AS ROZA HOLIDAYS EOOD, BG
-1	AS202425	INT-NETWORK IP Volume inc, SC
+4	AS14061	DIGITALOCEAN-ASN, US
+3	AS215479	PERFECTO-AS Perfecto Consultoria E Apoio Administrativo LTDA, BR
+2	AS52053	REDHEBERG REDHEBERG Association declaree, FR
+2	AS49581	FerdinandZink Ferdinand Zink trading as Tube-Hosting, DE
+2	AS4134	CHINANET-BACKBONE No.31,Jin-rong Street, CN
+2	AS398722	CENSYS-ARIN-03, US
+2	AS202425	INT-NETWORK IP Volume inc, SC
+1	AS60223	NETIFACE-AS Netiface Limited, GB
+1	AS57523	changway-as Chang Way Technologies Co. Limited, HK
+1	AS51396	PFCLOUD Pfcloud UG, DE
+1	AS50360	TAMATIYA-AS Tamatiya EOOD, BG
+1	AS45102	ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+1	AS398705	CENSYS-ARIN-02, US
+1	AS396982	GOOGLE-CLOUD-PLATFORM, US
+1	AS32934	FACEBOOK, US
+1	AS3255	UARNET-AS State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic and Research Network" of the Institute for Condensed Matter Physics of the National Academy of Science of Ukraine (UARNet), UA
+1	AS214943	RAILNET Railnet LLC, US
+1	AS206264	AMARUTU-TECHNOLOGY Amarutu Technology Ltd, SC
+1	AS201814	Mevspace MEVSPACE sp. z o.o., PL
+1	AS174	COGENT-174, US
 1	AS14080	Telmex Colombia S.A., CO
-1	AS138968	RAINBOWIDC-AS-AP rainbow network limited, JP
